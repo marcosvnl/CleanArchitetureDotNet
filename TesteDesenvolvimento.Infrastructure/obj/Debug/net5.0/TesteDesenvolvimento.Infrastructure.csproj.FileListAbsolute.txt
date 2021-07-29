@@ -1,0 +1,12 @@
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\bin\Debug\net5.0\TesteDesenvolvimento.Infrastructure.deps.json
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\bin\Debug\net5.0\TesteDesenvolvimento.Infrastructure.dll
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\bin\Debug\net5.0\ref\TesteDesenvolvimento.Infrastructure.dll
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\bin\Debug\net5.0\TesteDesenvolvimento.Infrastructure.pdb
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\obj\Debug\net5.0\TesteDesenvolvimento.Infrastructure.csproj.AssemblyReference.cache
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\obj\Debug\net5.0\TesteDesenvolvimento.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\obj\Debug\net5.0\TesteDesenvolvimento.Infrastructure.AssemblyInfoInputs.cache
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\obj\Debug\net5.0\TesteDesenvolvimento.Infrastructure.AssemblyInfo.cs
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\obj\Debug\net5.0\TesteDesenvolvimento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\obj\Debug\net5.0\TesteDesenvolvimento.Infrastructure.dll
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\obj\Debug\net5.0\ref\TesteDesenvolvimento.Infrastructure.dll
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Infrastructure\obj\Debug\net5.0\TesteDesenvolvimento.Infrastructure.pdb

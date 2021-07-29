@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteDesenvolvimento.Domain\TesteDesenvolvimento.Domain.csproj" />
+    <ProjectReference Include="..\TesteDesenvolvimento.Infrastructure\TesteDesenvolvimento.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+</Project>

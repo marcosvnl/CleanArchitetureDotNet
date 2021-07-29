@@ -1,0 +1,18 @@
+Esse arqui contem o meu entendimento sobre arquitetura limpas e API's.
+
+Dependências entre as camadas:
+    API: Tem de pendencia de todas camadas
+    Aplication: Tem dependência das camadas Domain(Core) e Infrastructure        
+    Domain(Core): Não tem dependências       
+    Infrastructure: Tem dependência da camada Domain(Core)
+        
+
+    Projeto SKY:
+        API: Tem de pendencia de todas camadas
+        Aplication: tem dependência da Domain
+        Domain: não tem dependências
+        Infrastructure: dependencia da camada Application
+ 
+NOTA: Esse Projeto tomara como base o projeto SKY
+
+

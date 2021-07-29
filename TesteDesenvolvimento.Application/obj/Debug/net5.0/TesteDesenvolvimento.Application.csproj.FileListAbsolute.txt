@@ -1,0 +1,12 @@
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\bin\Debug\net5.0\TesteDesenvolvimento.Application.deps.json
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\bin\Debug\net5.0\TesteDesenvolvimento.Application.dll
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\bin\Debug\net5.0\ref\TesteDesenvolvimento.Application.dll
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\bin\Debug\net5.0\TesteDesenvolvimento.Application.pdb
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\obj\Debug\net5.0\TesteDesenvolvimento.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\obj\Debug\net5.0\TesteDesenvolvimento.Application.AssemblyInfoInputs.cache
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\obj\Debug\net5.0\TesteDesenvolvimento.Application.AssemblyInfo.cs
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\obj\Debug\net5.0\TesteDesenvolvimento.Application.csproj.CoreCompileInputs.cache
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\obj\Debug\net5.0\TesteDesenvolvimento.Application.dll
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\obj\Debug\net5.0\ref\TesteDesenvolvimento.Application.dll
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\obj\Debug\net5.0\TesteDesenvolvimento.Application.pdb
+C:\Repositories\Pessoais\TesteDesenvolvimento\TesteDesenvolvimento.Application\obj\Debug\net5.0\TesteDesenvolvimento.Application.csproj.AssemblyReference.cache
